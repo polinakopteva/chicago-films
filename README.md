@@ -1,4 +1,4 @@
-# chicago-films
+# Film industry in Chicago
 ## Aim
 This project is dedicated to the city of Chicago, USA and the film industry in it. 
 ## Data 
